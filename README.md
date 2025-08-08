@@ -1,3 +1,29 @@
+<p align="center">
+  <img src="logo.png" alt="Commandshelf Logo" width="200" />
+</p>
+
+<h1 align="center">🧠 Commandshelf</h1>
+<p align="center">Store, search, and run your favorite shell commands — from anywhere.</p>
+
+<p align="center">
+  <a href="https://github.com/h3ggem/Commandshelf/releases">
+    <img src="https://img.shields.io/github/v/release/yourname/commandshelf-cli?style=for-the-badge" alt="Latest Release" />
+  </a>
+  <a href="https://github.com/h3ggem/Commandshelf/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/yourname/commandshelf-cli?style=for-the-badge" alt="License" />
+  </a>
+  <a href="https://github.com/h3ggem/Commandshelf/issues">
+    <img src="https://img.shields.io/github/issues/yourname/commandshelf-cli?style=for-the-badge" alt="Issues" />
+  </a>
+  <a href="https://github.com/h3ggem/Commandshelf/pulls">
+    <img src="https://img.shields.io/github/issues-pr/yourname/commandshelf-cli?style=for-the-badge" alt="Pull Requests" />
+  </a>
+  <a href="https://github.com/h3ggem/Commandshelf/stargazers">
+    <img src="https://img.shields.io/github/stars/yourname/commandshelf-cli?style=for-the-badge" alt="Stars" />
+  </a>
+</p>
+
+
 # 🧠 Commandshelf
 
 Store, search, and run your favorite shell commands — from anywhere.
