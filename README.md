@@ -69,16 +69,14 @@ sudo chmod +x ./install.sh
 ---
 
 <h1 align="center">🧩 Commands Available</h1>
-<l>
-- Command -	Description
-- shelf add	(Save a new command with an alias)
-- shelf run <alias>	(Run a saved command)
-- shelf list	(Show all saved commands)
-- shelf search	((coming soon) Search commands by keyword)
-- shelf stats	((coming soon) Show most used commands)
-- shelf remove	(Delete a command from the shelf)
-</l>
-  
+
+
+| Command | Description |
+|  :---: |  :---: |
+| shelf add *alias* "command"  | Save a new command with an alias  |
+| shelf run *alias*  | Run a saved command  |
+| shelf list | Show all saved commands  |
+| shelf remove  | Delete a command from the shelf  |
 ---
 
 <h1 align="center">💡 Tip</h1>
