@@ -24,12 +24,6 @@
 </p>
 
 
-# 🧠 Commandshelf
-
-Store, search, and run your favorite shell commands — from anywhere.
-
----
-
 ### ✨ What is Commandshelf?
 
 > Commandshelf is a lightweight, local CLI tool that lets you save and reuse your most important terminal commands using simple, memorable aliases.  
