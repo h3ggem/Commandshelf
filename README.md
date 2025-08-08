@@ -47,13 +47,13 @@ sudo chmod +x ./install.sh
 ---
 
 ### 🧩 Commands Available
-Command -	Description
-shelf add	(Save a new command with an alias)
-shelf run <alias>	(Run a saved command)
-shelf list	(Show all saved commands)
-shelf search	((coming soon) Search commands by keyword)
-shelf stats	((coming soon) Show most used commands)
-shelf remove	(Delete a command from the shelf)
+- Command -	Description
+- shelf add	(Save a new command with an alias)
+- shelf run <alias>	(Run a saved command)
+- shelf list	(Show all saved commands)
+- shelf search	((coming soon) Search commands by keyword)
+- shelf stats	((coming soon) Show most used commands)
+- shelf remove	(Delete a command from the shelf)
 
 ---
 
