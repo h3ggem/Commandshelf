@@ -24,14 +24,14 @@
 </p>
 
 
-### ✨ What is Commandshelf?
-
-> Commandshelf is a lightweight, local CLI tool that lets you save and reuse your most important terminal commands using simple, memorable aliases.  
+<h1 align="center">✨ What is Commandshelf?</h1>
+<p align="center">Commandshelf is a lightweight, local CLI tool that lets you save and reuse your most important terminal commands using simple, memorable aliases.  
 No more scrolling through `.bash_history` or losing time rewriting what you've already solved.
+</p>
 
 ---
 
-### ⚡️ Example Usage
+<h1 align="center">⚡️ Example Usage</h1>
 
 ```bash
 # Add a command to the shelf
@@ -50,13 +50,15 @@ $ shelf search update
 ---
 
 
-### 🛠 Installation
+<h1 align="center">🛠 Installation</h1>
+
 One-liner install (coming soon):
 ```bash
 curl -sSL https://commandshelf.sh/install.sh | bash
 ```
 
-### Manual install:
+<h1 align="center">Manual install:</h1>
+
 ```bash
 git clone https://github.com/yourname/commandshelf-cli.git
 cd commandshelf
@@ -66,7 +68,8 @@ sudo chmod +x ./install.sh
 
 ---
 
-### 🧩 Commands Available
+<h1 align="center">🧩 Commands Available</h1>
+<l>
 - Command -	Description
 - shelf add	(Save a new command with an alias)
 - shelf run <alias>	(Run a saved command)
@@ -74,10 +77,11 @@ sudo chmod +x ./install.sh
 - shelf search	((coming soon) Search commands by keyword)
 - shelf stats	((coming soon) Show most used commands)
 - shelf remove	(Delete a command from the shelf)
-
+</l>
+  
 ---
 
-### 💡 Tip
+<h1 align="center">💡 Tip</h1>
 Name your commands clearly:
 
 ```bash
@@ -87,12 +91,12 @@ shelf add "ssh into dev" "ssh ubuntu@dev-server"
 
 ---
 
-### 📄 License
+<h1 align="center">📄 License</h1>
 MIT License — free to use, fork, and share!
 
 ---
 
-### 🚀 Contributing
+<h1 align="center">🚀 Contributing</h1>
 Pull requests welcome!
 If you’ve got an idea, open an issue or drop a PR.
 This project is beginner-friendly and open to collaboration
